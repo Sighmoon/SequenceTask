@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\bin\Debug\Задание.exe.config
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\bin\Debug\Задание.exe
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\bin\Debug\Задание.pdb
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\obj\Debug\Задание.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\obj\Debug\Задание.exe
+c:\users\sergey\documents\visual studio 2015\Projects\Задание\Задание\obj\Debug\Задание.pdb
